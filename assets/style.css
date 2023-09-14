@@ -109,6 +109,9 @@ body {
 .nav-pills .nav-link {
 	color: #000
 }
+/* .modal-open .modal {
+    overflow-y: auto;
+} */
 .item-column {
 	position: relative;
 	margin-bottom: 0 !important;
